@@ -110,27 +110,14 @@ root/
 <table>
 <tr>
   <td align="center">
-    <a href="https://sharad.is-a.dev/">
-      <img src="https://avatars.githubusercontent.com/u/85397332?v=4" width="100px;" alt="Sharad's Avatar"/>
+    <a>
       <br />
-      <sub><b>Sharad Chandel</b></sub>
+      <sub><b>Rudar Partap Singh</b></sub>
     </a>
   </td>
 </tr>
 </table>
 
-<a href="mailto:sharadchandel2005@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/sharadchandel2005/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://sharad.is-a.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/sharadj19">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 ## 📜 License
 
